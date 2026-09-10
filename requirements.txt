@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Runtime requirement: Python 3.10 or newer.
